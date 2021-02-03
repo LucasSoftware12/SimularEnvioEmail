@@ -3,3 +3,7 @@
 2. Tiene un botón para borrar todo el documento del formulario. 
 3. Al presionar el botón enviar, un spinner de carga aparece. 
 4. Después del spinner un gráfico de enviado aparece.
+
+![alt text](https://github.com/LucasSoftware12/SimularEnvioEmail/blob/master/ej.png)
+![alt text](https://github.com/LucasSoftware12/SimularEnvioEmail/blob/master/ej1.png)
+![alt text](https://github.com/LucasSoftware12/SimularEnvioEmail/blob/master/ej2.png)
